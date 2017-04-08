@@ -8,7 +8,7 @@
 
 const char* host = "52.231.39.26"; // Your domain
 const char* think = "api.thingspeak.com";  
-String ApiKey = "MRQIBAZYDGSTB2LV";
+String ApiKey = "98H37F1M5FULMB8Z";
 String think_path = "/update?key=" + ApiKey + "&field1=";  
 String path="/temp_data?temp=";
 
